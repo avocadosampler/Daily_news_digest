@@ -32,7 +32,7 @@ orchestrator.py          # Main workflow coordinator (Prefect)
 
 ## Prerequisites
 
-- Python 3.8+
+- Python 3.11+
 - OpenRouter API key (for LLM access)
 - Required Python packages (see Installation)
 
